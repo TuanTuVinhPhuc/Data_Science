@@ -22,5 +22,5 @@ ENERGY_CONSUMPTION/
 3.	Chạy từng cell theo thứ tự để tái hiện kết quả
 
 ## 📈 Kết quả
-•	Mỗi notebook sẽ hiển thị biểu đồ dự báo và chỉ số đánh giá (RMSE, MAE…)
-•	Có thể dễ dàng mở từng notebook để chạy lại, sửa đổi, thử nghiệm thêm
+- Mỗi notebook sẽ hiển thị **biểu đồ dự báo** và **chỉ số đánh giá** (RMSE, MAE…)
+- Có thể dễ dàng mở từng notebook để chạy lại, sửa đổi, thử nghiệm thêm
